@@ -18,14 +18,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-### 👨‍💻 Summary
+
 > Computer Vision & Robotics Engineer with 3+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
 - :school: I am a `Senior` at [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
 - :trophy: 1x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Computer Vision Engineer at `NIVIDIA`, `Roboflow`, `CARLA Simulator`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- :student: I’m currently learning `Autonomous Systems` and `Software Engineering`.
+- :nerd_face: Always `Learning New Technics`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
