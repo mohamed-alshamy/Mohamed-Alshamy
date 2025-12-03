@@ -42,6 +42,11 @@
   <img src="https://www.grc-championship.com/assets/images/logos/logo-white.png" 
        alt="Global Robotics Challenge" width="80" height="80"/>
 </a>
+    <a href="https://www.valeo.com/en/" target="_blank">
+  <img src="https://www.valeo.com/wp-content/themes/valeo/images/logo.png" 
+       alt="Valeo" width="80" height="80"/>
+</a>
+
 
 	
 </p>
