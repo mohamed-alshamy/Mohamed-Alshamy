@@ -34,7 +34,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitions Profiles
 
 <p align="center">
-    <a href="LINK_TO_MATE_ROV_RESULTS" target="_blank">
+    <a href="https://materovcompetition.org/" target="_blank">
   <img src="https://20693798.fs1.hubspotusercontent-na1.net/hub/20693798/hubfs/MATEROV/logos/materovcompetition-logo.jpg?width=200&height=100&name=materovcompetition-logo.jpg" 
        alt="MATE ROV" width="80" height="80"/>
 </a>
