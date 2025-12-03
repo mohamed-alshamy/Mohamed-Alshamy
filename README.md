@@ -12,15 +12,13 @@
 </p>
 <br>
 
-### 👨‍💻 Professional Summary
 
-> Computer Vision & Robotics Engineer with 3+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+### 👨‍💻 Summary
 > Computer Vision & Robotics Engineer with 3+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
 - :school: I am a `Senior` at [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
 - :trophy: 1x `ACPC` Finalist.
