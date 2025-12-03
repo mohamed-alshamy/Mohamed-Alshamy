@@ -152,22 +152,30 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
+ ### <picture> <https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> Robotics
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  <a href="https://www.ros.org/" target="_blank">
+    <img alt="ROS" src="https://img.shields.io/badge/ROS-%23DD0031.svg?style=plastic&logo=ros&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  <a href="https://developer.nvidia.com/embedded/jetson" target="_blank">
+    <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA%20Jetson-%2380B3FF.svg?style=plastic&logo=nvidia&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.raspberrypi.com/" target="_blank">
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=plastic&logo=raspberrypi&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300999C.svg?style=plastic&logo=arduino&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-%23F0A500.svg?style=plastic&logo=nvidia&logoColor=white">
+  </a>
 </p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
