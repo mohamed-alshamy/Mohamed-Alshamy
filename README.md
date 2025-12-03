@@ -127,18 +127,30 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> AI Frameworks
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  <a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+  <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%230072C6.svg?style=plastic&logo=opencv&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://pjreddie.com/darknet/yolo/" target="_blank">
+    <img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23FF0000.svg?style=plastic&logo=deeplearning&logoColor=white">
+  </a>
 </p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
