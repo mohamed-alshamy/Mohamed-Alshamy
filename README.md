@@ -26,8 +26,8 @@
 - :computer: I am a Computer Vision Engineer at `NIVIDIA`, `Roboflow`, `CARLA Simulator`.
 - :student: I’m currently learning `Autonomous Systems` and `Software Engineering`.
 - :nerd_face: Always `Learning New Technics`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PHccCR_8PTpPKKYKjCY1kTj8ABYVRABl/view?usp=sharing).
+- :boom: You can visit [MY LINK](https://linktr.ee/mo7amed_alshamy).
 <br>
 
 
