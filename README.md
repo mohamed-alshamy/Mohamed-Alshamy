@@ -152,7 +152,7 @@
 </p>
 
 
- ### <picture> <https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> Robotics
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Robotics
 <p align="center">
   &emsp;
   <a href="https://www.ros.org/" target="_blank">
@@ -177,19 +177,57 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px"> </picture> Tools
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=plastic&logo=googlecolab&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?style=plastic&logo=visualstudiocode&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white">
+  </a>
+</p>
+
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> Cloud & OS
+<p align="center">
+  &emsp;
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://cloud.google.com/" target="_blank">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%2300ACFF.svg?style=plastic&logo=googlecloud&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=plastic&logo=windows&logoColor=white">
+  </a>
 </p>
 
 <br> 
