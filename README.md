@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mohamed Alshamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Vision+and+Robotics+Engineer;Generative+AI;Artificial+Intelligence;Machine+Learning;Deep+Learning;Embedded+and+Control+Systems;Electronics;1x+ACPC+Finalist;Expert+on+NIVIDIA+and+Roboflow;Always+Learning+New+Technics"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Vision+and+Robotics+Engineer;Generative+AI;Artificial+Intelligence;Machine+Learning;Deep+Learning;Autonomous+Systems;Embedded+and+Control+Systems;Electronics;1x+ACPC+Finalist;Expert+on+NIVIDIA+and+Roboflow;Always+Learning+New+Technics"></a>
 </p>
 
 
@@ -24,17 +24,20 @@
 - :trophy: 1x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Computer Vision Engineer at `NIVIDIA`, `Roboflow`, `CARLA Simulator`.
-- :student: I’m currently learning `Autonomous Systems` and `Software Engineering`.
+- :student: I’m currently learning `Autonomous Systems` and `Artificial Intelligence`.
 - :nerd_face: Always `Learning New Technics`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PHccCR_8PTpPKKYKjCY1kTj8ABYVRABl/view?usp=sharing).
 - :boom: You can visit [MY LINK](https://linktr.ee/mo7amed_alshamy).
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitions Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="LINK_TO_MATE_ROV_RESULTS">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" 
+       alt="MATE ROV"/>
+</a>
 	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
