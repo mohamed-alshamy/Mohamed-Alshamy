@@ -88,9 +88,9 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
-     <img alt="MATLAB" src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20251029201839176.svg">
-   </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=plastic&logo=matlab&logoColor=white">
+</a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
