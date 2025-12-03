@@ -231,9 +231,9 @@
 </p>
 
 <br> 
-
 ---
-
+---
+---
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -242,7 +242,8 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+----
+----
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
@@ -251,14 +252,12 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
-
-
 ----
 	
 
 
 ----
+	
 [![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
  
@@ -266,6 +265,15 @@
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
 	
