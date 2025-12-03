@@ -34,7 +34,10 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitions Profiles
 
 <p align="center">
-    <a href="LINK_TO_MATE_ROV_RESULTS" target="_blank"><img src="https://20693798.fs1.hubspotusercontentna1.net/hub/20693798/hubfs/MATEROV/logos/materovcompetition-logo.jpg?width=200&height=100&name=materovcompetitionlogo.jpg" alt="MATE ROV" width="50" height="50"/></a>
+    <a href="LINK_TO_MATE_ROV_RESULTS" target="_blank">
+  <img src="https://20693798.fs1.hubspotusercontent-na1.net/hub/20693798/hubfs/MATEROV/logos/materovcompetition-logo.jpg?width=200&height=100&name=materovcompetition-logo.jpg" 
+       alt="MATE ROV" width="50" height="50"/>
+</a>
 	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
