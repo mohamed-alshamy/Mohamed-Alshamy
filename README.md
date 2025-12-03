@@ -10,7 +10,11 @@
 	<img src="https://komarev.com/ghpvc/?username=mohamed-alshamy&label=Profile%20views&color=0047AB&style=plastic?" alt="mohamed-alshamy" height=25px, width=160px/> 
 	
 </p>
+<br>
 
+### 👨‍💻 Professional Summary
+
+> Computer Vision & Robotics Engineer with 3+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
