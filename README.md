@@ -261,6 +261,9 @@
 	
 <div>
   <p align="center">
+	<a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=HYDROTRON-ROV-&theme=tokyonight" alt="GitHub Stats" />
+        </a>
 	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
