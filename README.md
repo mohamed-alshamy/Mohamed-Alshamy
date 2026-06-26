@@ -50,6 +50,10 @@
   <img src="http://acpc.global/wp-content/uploads/2023/08/cropped-ACPC-LOGO-n.png" 
        alt="ACPC" width="80" height="80"/>
 </a>
+    <a href="https://www.itc-egypt-adc.org/" target="_blank">
+  <img src="https://www.itc-egypt-adc.org/assets/images/logo.webp" 
+       alt="ITC Egypt" width="80" height="80"/>
+</a>
 
 
 </p>
