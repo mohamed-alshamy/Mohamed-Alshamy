@@ -19,7 +19,7 @@
 
 <br><br>
 
-> Computer Vision & Robotics Engineer with 3+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
+> Computer Vision & Robotics Engineer with 4+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
 - :school: I am a `Graduate` of the [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
 - :trophy: 1x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -38,7 +38,7 @@
   <img src="https://20693798.fs1.hubspotusercontent-na1.net/hub/20693798/hubfs/MATEROV/logos/materovcompetition-logo.jpg?width=200&height=100&name=materovcompetition-logo.jpg" 
        alt="MATE ROV" width="80" height="80"/>
 </a>
-	<a href="https://www.grc-championship.com/" target="_blank">
+	<a href="[https://www.grc-championship.com/](https://grc-championship.com/images/logos/logo-white.png)" target="_blank">
   <img src="https://www.grc-championship.com/assets/images/logos/logo-white.png" 
        alt="Global Robotics Challenge" width="80" height="80"/>
 </a>
