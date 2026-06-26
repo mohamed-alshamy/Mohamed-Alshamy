@@ -20,7 +20,7 @@
 <br><br>
 
 > Computer Vision & Robotics Engineer with 3+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
-- :school: I `Graduated` From [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
+- :school: I am a `Graduate` of the [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
 - :trophy: 1x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Computer Vision Engineer at `NIVIDIA`, `Roboflow`, `CARLA Simulator`.
