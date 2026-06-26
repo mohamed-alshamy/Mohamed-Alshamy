@@ -270,9 +270,9 @@
 	<a href="https://github.com/mohamed-alshamy/Sorting-Algorithms">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
         </a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+	<a href="https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+        </a>
 
   </p>
 </div>
