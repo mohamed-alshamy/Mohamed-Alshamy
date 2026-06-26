@@ -38,7 +38,7 @@
   <img src="https://20693798.fs1.hubspotusercontent-na1.net/hub/20693798/hubfs/MATEROV/logos/materovcompetition-logo.jpg?width=200&height=100&name=materovcompetition-logo.jpg" 
        alt="MATE ROV" width="80" height="80"/>
 </a>
-	<a href="[https://www.grc-championship.com/](https://grc-championship.com/images/logos/logo-white.png)" target="_blank">
+	<a href="https://grc-championship.com/" target="_blank">
   <img src="https://www.grc-championship.com/assets/images/logos/logo-white.png" 
        alt="Global Robotics Challenge" width="80" height="80"/>
 </a>
