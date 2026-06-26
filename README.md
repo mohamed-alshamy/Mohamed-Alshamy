@@ -39,7 +39,7 @@
        alt="MATE ROV" width="80" height="80"/>
 </a>
 	<a href="https://grc-championship.com/" target="_blank">
-  <img src="https://www.grc-championship.com/assets/images/logos/logo-white.png" 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0D8zciaoT4MEbGPP3ZsU14fq3w1keq24AAktjMEiX4NU-8YwytN-JmOon&s=10" 
        alt="Global Robotics Challenge" width="80" height="80"/>
 </a>
     <a href="https://www.valeo.com/en/" target="_blank">
