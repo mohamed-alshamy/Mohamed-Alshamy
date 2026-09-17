@@ -20,7 +20,7 @@
 <br><br>
 
 > Computer Vision & Autonomous Systems Engineer with hands-on experience developing real-time computer vision and AI-powered robotic systems. Specialized in object detection, image processing, autonomous perception, and deep learning using Python, OpenCV, YOLO, PyTorch, and TensorFlow. Experienced in embedded AI deployment on NVIDIA Jetson and Raspberry Pi, with hands-on experience in ROS2, SLAM, sensor fusion, Docker, FastAPI, Git/GitHub, Linux, and databases. Proven experience developing autonomous vehicles, ROVs, and AI-powered robotic systems, along with leading teams and competing in national and international robotics competitions.
-- :school: `I Graduated In 2026 ` From The Of the [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
+- :school: `I Graduated In 2026 ` From The Of [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
 - :trophy: 1x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Computer Vision Engineer at `NIVIDIA`, `Roboflow`, `CARLA Simulator`.
@@ -110,6 +110,10 @@
   &emsp;
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
   </a>
 </p>
 
