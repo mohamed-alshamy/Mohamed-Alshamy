@@ -27,7 +27,7 @@
 - :student: I’m currently learning `Autonomous Systems` and `Artificial Intelligence`.
 - :nerd_face: Always `Learning New Technics`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Q2kDaGShouP-tUqUQ7iygrxcCrc0DK6l/view?usp=sharing).
-- :boom: You can visit [MY LINK](https://mohamed-alshamy.vercel.app/).
+- :boom: You can visit [PORTFOLIO](https://mohamed-alshamy.vercel.app/).
 <br>
 
 
