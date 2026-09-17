@@ -265,19 +265,33 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=HYDROTRON-ROV-&theme=tokyonight" alt="GitHub Stats" />
-        </a>
-	<a href="https://github.com/mohamed-alshamy/Some-Linux-Commands">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-        </a>
-	<a href="https://github.com/mohamed-alshamy/Sorting-Algorithms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-        </a>
-	<a href="https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-        </a>
+    <a href="https://github.com/mohamed-alshamy/Smart-Traffic-Vision">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Smart-Traffic-Vision&theme=tokyonight" alt="Smart Traffic Vision" />
+    </a>
 
+<a href="https://github.com/mohamed-alshamy/Autonomous-Wheelchair">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Autonomous-Wheelchair&theme=tokyonight" alt="Autonomous Wheelchair" />
+    </a>
+
+<a href="https://github.com/mohamed-alshamy/Autonomous-Vehicle">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Autonomous-Vehicle&theme=tokyonight" alt="Autonomous Vehicle" />
+    </a>
+
+<a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=HYDROTRON-ROV-&theme=tokyonight" alt="HYDROTRON ROV" />
+    </a>
+
+<a href="https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="Tic Tac Toe GUI" />
+    </a>
+
+<a href="https://github.com/mohamed-alshamy/Sorting-Algorithms">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Sorting-Algorithms&theme=tokyonight" alt="Sorting Algorithms" />
+    </a>
+
+<a href="https://github.com/mohamed-alshamy/Some-Linux-Commands">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Some-Linux-Commands&theme=tokyonight" alt="Some Linux Commands" />
+    </a>
   </p>
 </div>
 </details>
