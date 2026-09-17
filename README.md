@@ -249,6 +249,65 @@
 
 ----
 
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/Smart-Traffic-Vision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Smart-Traffic-Vision&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/Autonomous-Wheelchair">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Autonomous-Wheelchair&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/Autonomous-Vehicle">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Autonomous-Vehicle&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=HYDROTRON-ROV-&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Tic-Tac-Toe-GUI&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/Sorting-Algorithms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Sorting-Algorithms&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamed-alshamy/Some-Linux-Commands">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Some-Linux-Commands&theme=tokyonight" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!--
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 	
 <div>
@@ -283,7 +342,7 @@
   </p>
 </div>
 </details>
-
+-->
 </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
