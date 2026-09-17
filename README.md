@@ -251,59 +251,143 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/Smart-Traffic-Vision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Smart-Traffic-Vision&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/Autonomous-Wheelchair">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Autonomous-Wheelchair&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
+<tr>
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/Autonomous-Vehicle">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Autonomous-Vehicle&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=HYDROTRON-ROV-&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Tic-Tac-Toe-GUI&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/Sorting-Algorithms">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Sorting-Algorithms&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
+<h3 align="center">🌊 Underwater ROV</h3>
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamed-alshamy/Some-Linux-Commands">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-alshamy&repo=Some-Linux-Commands&theme=tokyonight" />
-      </a>
-    </td>
-    <td width="50%"></td>
-  </tr>
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
+    <img src="https://github.com/mohamed-alshamy/HYDROTRON-ROV-/blob/main/ROV%20IMAGE.jpg?raw=true" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  AI-powered underwater remotely operated vehicle using sonar, cameras, and computer vision for underwater perception and object detection.
+</p>
+
+<p align="center">
+  <code>TensorFlow</code>
+  <code>Raspberry Pi</code>
+  <code>OpenCV</code>
+  <code>Arduino</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/HYDROTRON-ROV-">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Autonomous Vehicle</h3>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/Autonomous-Vehicle">
+    <img src="https://github.com/mohamed-alshamy/Autonomous-Vehicle/blob/main/Autonomous%20Vehicle.jpg?raw=true" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  AI-powered autonomous vehicle using ROS 2, Nav2, ZED2 stereo camera, Ublox GPS, and Map Server for real-time perception, localization, path planning, and autonomous navigation.
+</p>
+
+<p align="center">
+  <code>ROS2</code>
+  <code>Jetson</code>
+  <code>Nav2</code>
+  <code>Map Server</code>
+  <code>Ublox GPS</code>
+  <code>ZED2</code>
+  <code>CUDA</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/Autonomous-Vehicle">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">♿ Autonomous Wheelchair</h3>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/Autonomous-Wheelchair">
+    <img src="https://github.com/mohamed-alshamy/Autonomous-Wheelchair/blob/main/MAVERICK?raw=true" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  AI-powered autonomous wheelchair featuring object detection, face recognition, drowsiness detection, obstacle avoidance, ESP32 motor control, and a real-time monitoring dashboard built with React and FastAPI.
+</p>
+
+<p align="center">
+  <code>ROS2</code>
+  <code>YOLO</code>
+  <code>OpenCV</code>
+  <code>ESP32</code>
+  <code>Jetson Orin Nano</code>
+  <code>FastAPI</code>
+  <code>FaceNet</code>
+  <code>Dlib</code>
+  <code>Docker</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/Autonomous-Wheelchair">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚦 Smart Traffic Vision</h3>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/Smart-Traffic-Vision">
+    <img src="https://github.com/mohamed-alshamy/Smart-Traffic-Vision/blob/main/Smart%20Traffic%20Vision.jpg?raw=true" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  Real-time computer vision system for vehicle tracking, traffic flow analysis, wrong-way detection, lane monitoring, and road blockage detection using YOLOv12x, OpenCV, and Python.
+</p>
+
+<p align="center">
+  <code>YOLOv12x</code>
+  <code>OpenCV</code>
+  <code>Python</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamed-alshamy/Smart-Traffic-Vision">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+</tr>
 </table>
 
 </div>
+
 
 ---
 
