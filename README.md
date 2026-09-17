@@ -19,15 +19,15 @@
 
 <br><br>
 
-> Computer Vision & Robotics Engineer with 4+ years of experience in AI-powered autonomous systems. Specialized in real-time vision pipelines (YOLO, OpenCV, TensorFlow) and embedded AI deployment on NVIDIA Jetson and Raspberry Pi. Strong background in sensor fusion, ROS, and SLAM, with a proven record of leading teams and winning national and international robotics competitions. 
+> Computer Vision & Autonomous Systems Engineer with hands-on experience developing real-time computer vision and AI-powered robotic systems. Specialized in object detection, image processing, autonomous perception, and deep learning using Python, OpenCV, YOLO, PyTorch, and TensorFlow. Experienced in embedded AI deployment on NVIDIA Jetson and Raspberry Pi, with hands-on experience in ROS2, SLAM, sensor fusion, Docker, FastAPI, Git/GitHub, Linux, and databases. Proven experience developing autonomous vehicles, ROVs, and AI-powered robotic systems, along with leading teams and competing in national and international robotics competitions.
 - :school: I am a `Graduate` of the [Faculty of Artificial Intelligence](https://eru.edu.eg/faculty-of-artificial-intelligence/) at [Egyptian Russian University](https://eru.edu.eg/).
 - :trophy: 1x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Computer Vision Engineer at `NIVIDIA`, `Roboflow`, `CARLA Simulator`.
 - :student: I’m currently learning `Autonomous Systems` and `Artificial Intelligence`.
 - :nerd_face: Always `Learning New Technics`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PHccCR_8PTpPKKYKjCY1kTj8ABYVRABl/view?usp=sharing).
-- :boom: You can visit [MY LINK](https://linktr.ee/mo7amed_alshamy).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Q2kDaGShouP-tUqUQ7iygrxcCrc0DK6l/view?usp=sharing).
+- :boom: You can visit [MY LINK](https://mohamed-alshamy.vercel.app/).
 <br>
 
 
